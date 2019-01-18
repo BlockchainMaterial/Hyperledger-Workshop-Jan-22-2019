@@ -7,39 +7,38 @@
 
 ## Training Agenda
 
-*  Introduction to Blockchain Hyperledger 
- * Intro to Blockchain Hyperledger Fabric (25 mins.)
- * IBM Blockchain Platform Cloud walkthrough and demo (20 mins.)
+## Workshop 1 - Intro to Hyperledger 
+* 9:30 a.m. - 11:00 a.m. 
+  * Intro to Blockchain Hyperledger Fabric (25 mins)
+  * IBM Blockchain Platform Cloud walkthrough and demo (20 mins)
+  * Blockchain Architecture explored (45 mins) 
 
-* Blockchain Architecture explored (45 mins.)
+* 11:00 a.m. - 12:00 p.m. 
+  * Review Code Pattern (10 mins)
+  * Set up local environment: https://github.com/BlockchainMaterial/Hyperledger-Prerequisites-Setup (45 mins) 
+  * Register for IBM Cloud: https://ibm.biz/Bd2YQt (5 mins)
 
-* Lunch (1 hour)
+* 12:00 p.m. - 1:00 p.m. 
+  * Lunch (1 hour)
 
-## Hands-on Labs
+# Workshop 2 - Hands-on Labs
 
-# Workshop 1 - Deploy Blockchain Application in Local Environment
+* 1:00 p.m. - 2:30 p.m. 
+   * Complete tutorial 1 - Deploy Local Hyperledger Application 60 mins)
+   * Complete tutorial 2 - Deploy IBM Blockchain Platform Application to Cloud(30 mins)
 
-* Code pattern walkthrough - 15 mins
-* Set up environment and cloud - 30 - 45 mins
- * [local environment set up instructions](https://github.com/BlockchainMaterial/Hyperledger-Prerequisites-Setup)
- * Register for [IBM Cloud](https://ibm.biz/Bd2YQt)
-* Complete tutorial 1 - 40 mins
-
-# Workshop 2 Deploy Hyperledger App Using Blockchain Platform on IBM Cloud 
-
-* Complete tutorial 2 - 40 mins
-
-# Present Applicable Use Cases 
-
-# Discussion and Q/A 
+# Discussion and Q and A 
+* 2:30 - 3:15 p.m. 
+   * Discuss applicable use cases
+   * Open Q and A 
     
 ## IMPORTANT LINKS 
 
-## Blockchain Code Patterns
+# Blockchain Code Patterns
 
 * https://developer.ibm.com/patterns/category/blockchain/
 
-## Blockchain Documentation 
+# Blockchain Documentation 
 
 * https://hyperledger-fabric.readthedocs.io/en/release-1.4/
 
