@@ -18,25 +18,24 @@
 * 12:00 p.m. - 1:00 p.m. 
   * Lunch (1 hour)
 
-# Workshop 2 - Hands-on Labs
+## Workshop 2 - Hands-on Labs
 * 1:00 p.m. - 2:30 p.m. 
    * Complete tutorial 1 - Deploy Local Hyperledger Application 60 mins)
    * Complete tutorial 2 - Deploy IBM Blockchain Platform Application to Cloud(30 mins)
 
-# Discussion and Q and A 
+# Discussion 
 * 2:30 - 3:15 p.m. 
    * Discuss applicable use cases
    * Open Q and A 
     
 ## IMPORTANT LINKS 
 
-**Blockchain Code Patterns**
+## Blockchain Code Patterns & Documentation
 * https://developer.ibm.com/patterns/category/blockchain/
-
-**Blockchain Documentation** 
+Blockchain Documentation
 * https://hyperledger-fabric.readthedocs.io/en/release-1.4/
 
-**Contact for follow up** 
+## Contact for follow up
 * odrodrig@us.ibm.com | @Heres__Ollie
 * helen.lam@ibm.com | @helennnsays
 
