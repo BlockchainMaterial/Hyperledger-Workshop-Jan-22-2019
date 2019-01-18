@@ -1,8 +1,8 @@
 # Blockchain Platform Workshop 1/22/19
 
 ## Prerequisites
-- Should already be registered for IBM Cloud here: https://ibm.biz/Bd2YQt
-- Begin Hyperledger environment set up: https://github.com/BlockchainMaterial/Hyperledger-Prerequisites-Setup
+* Should already be registered for IBM Cloud here: https://ibm.biz/Bd2YQt
+* Begin Hyperledger environment set up: https://github.com/BlockchainMaterial/Hyperledger-Prerequisites-Setup
 
 ## Workshop 1 - Intro to Hyperledger 
 * 9:30 a.m. - 11:00 a.m. 
