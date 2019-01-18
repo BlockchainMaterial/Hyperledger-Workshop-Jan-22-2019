@@ -28,7 +28,7 @@
    * Discuss applicable use cases
    * Q and A 
     
-## Important links, Blockchain Code Patterns & Documentation
+## Important links - Blockchain Code Patterns & Documentation
 * https://developer.ibm.com/patterns/category/blockchain/
 * https://hyperledger-fabric.readthedocs.io/en/release-1.4/
 
