@@ -23,14 +23,12 @@
    * Complete tutorial 1 - Deploy Local Hyperledger Application 60 mins)
    * Complete tutorial 2 - Deploy IBM Blockchain Platform Application to Cloud(30 mins)
 
-# Discussion 
+## Discussion 
 * 2:30 - 3:15 p.m. 
    * Discuss applicable use cases
    * Open Q and A 
     
-## IMPORTANT LINKS 
-
-## Blockchain Code Patterns & Documentation
+## Important links, Blockchain Code Patterns & Documentation
 * https://developer.ibm.com/patterns/category/blockchain/
 Blockchain Documentation
 * https://hyperledger-fabric.readthedocs.io/en/release-1.4/
