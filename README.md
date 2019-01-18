@@ -30,13 +30,13 @@
     
 ## IMPORTANT LINKS 
 
-# Blockchain Code Patterns
+**Blockchain Code Patterns**
 * https://developer.ibm.com/patterns/category/blockchain/
 
-# Blockchain Documentation 
+**Blockchain Documentation** 
 * https://hyperledger-fabric.readthedocs.io/en/release-1.4/
 
-## Contact for follow up 
+**Contact for follow up** 
 * odrodrig@us.ibm.com | @Heres__Ollie
 * helen.lam@ibm.com | @helennnsays
 
