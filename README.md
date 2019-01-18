@@ -26,7 +26,7 @@
 ## Discussion 
 * 2:30 - 3:15 p.m. 
    * Discuss applicable use cases
-   * Open Q and A 
+   * Q and A 
     
 ## Important links, Blockchain Code Patterns & Documentation
 * https://developer.ibm.com/patterns/category/blockchain/
