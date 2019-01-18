@@ -1,4 +1,4 @@
-# Hyperledger Workshop 1/22/19
+# Hyperledger Workshop 
 
 ## Prerequisites
 * Should already be registered for IBM Cloud here: https://ibm.biz/Bd2YQt
