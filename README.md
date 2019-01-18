@@ -30,7 +30,6 @@
     
 ## Important links, Blockchain Code Patterns & Documentation
 * https://developer.ibm.com/patterns/category/blockchain/
-Blockchain Documentation
 * https://hyperledger-fabric.readthedocs.io/en/release-1.4/
 
 ## Contact for follow up
