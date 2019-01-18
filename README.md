@@ -7,7 +7,7 @@
 ## Workshop 1 - Intro to Hyperledger 
 * 9:30 a.m. - 11:00 a.m. 
   * Intro to Blockchain Hyperledger Fabric (25 mins)
-  * IBM Blockchain Platform Cloud walkthrough and demo (20 mins)
+  * IBM Blockchain Platform Cloud walkthrough (20 mins)
   * Blockchain Architecture explored (45 mins) 
 
 * 11:00 a.m. - 12:00 p.m. 
@@ -19,12 +19,14 @@
   * Lunch (1 hour)
 
 ## Workshop 2 - Hands-on Labs
-* 1:00 p.m. - 2:30 p.m. 
-   * Complete tutorial 1 - Deploy Local Hyperledger Application (60 mins)
-   * Complete tutorial 2 - Deploy IBM Blockchain Platform Application to Cloud(30 mins)
+* 1:00 p.m. - 3:30 p.m. 
+   * Complete Tutorial 1 - Hyperledger + VSCode Tutorial (45 mins.) 
+   * Complete tutorial 2 - Deploy Local Hyperledger Application (45 mins.) 
+   * Complete tutorial 3 - Deploy IBM Blockchain Platform Application to Cloud (45 mins.) 
+  * Break - (15 mins.) 
 
 ## Discussion 
-* 2:30 - 3:15 p.m. 
+* 3:30 - 4:00 p.m. 
    * Discuss applicable use cases
    * Q and A 
     
