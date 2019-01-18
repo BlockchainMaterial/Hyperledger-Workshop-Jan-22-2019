@@ -20,10 +20,10 @@
 
 ## Workshop 2 - Hands-on Labs
 * 1:00 p.m. - 3:30 p.m. 
-   * Complete Tutorial 1 - Hyperledger + VSCode Tutorial (45 mins.) 
-   * Complete tutorial 2 - Deploy Local Hyperledger Application (45 mins.) 
-   * Complete tutorial 3 - Deploy IBM Blockchain Platform Application to Cloud (45 mins.) 
-  * Break - (15 mins.) 
+   * Complete Tutorial 1 - Hyperledger + VSCode Tutorial (45 mins) 
+   * Complete tutorial 2 - Deploy Local Hyperledger Application (45 mins) 
+   * Complete tutorial 3 - Deploy IBM Blockchain Platform Application to Cloud (45 mins) 
+  * Break (15 mins) 
 
 ## Discussion 
 * 3:30 - 4:00 p.m. 
