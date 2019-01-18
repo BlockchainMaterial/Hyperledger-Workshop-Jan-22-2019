@@ -1,4 +1,4 @@
-# Hyperledger Workshop 
+# Hyperledger Fabric Workshop 
 
 ## Prerequisites
 * Should already be registered for IBM Cloud here: https://ibm.biz/Bd2YQt
