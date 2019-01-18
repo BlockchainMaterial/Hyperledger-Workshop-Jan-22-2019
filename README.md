@@ -28,9 +28,10 @@
    * Discuss applicable use cases
    * Q and A 
     
-## Important links - Blockchain Code Patterns & Documentation
+## Important links - Blockchain Code Patterns, Documentation & Tutorials
 * https://developer.ibm.com/patterns/category/blockchain/
 * https://hyperledger-fabric.readthedocs.io/en/release-1.4/
+* https://cognitiveclass.ai/?s=blockchain
 
 ## Contact for follow up
 * odrodrig@us.ibm.com | @Heres__Ollie
