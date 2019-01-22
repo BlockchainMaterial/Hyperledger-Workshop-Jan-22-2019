@@ -29,12 +29,15 @@
    * Discuss applicable use cases
    * Q and A 
     
-## Important links - Blockchain Code Patterns, Documentation & Tutorials
+## Important links - Blockchain Code Patterns, Documentation
 * https://developer.ibm.com/patterns/category/blockchain/
 * https://hyperledger-fabric.readthedocs.io/en/release-1.4/
-* https://cognitiveclass.ai/?s=blockchain
 * https://github.com/hyperledger/fabric
 * https://wiki.hyperledger.org/projects/fabric
+
+## Blockchain Tutorials
+* https://cognitiveclass.ai/?s=blockchain
+* https://github.com/IBM/car-auction-network-fabric-node-sdk
 
 ## Contact for follow up
 * odrodrig@us.ibm.com | @Heres__Ollie
