@@ -20,9 +20,9 @@
 
 ## Workshop 2 - Hands-on Labs
 * 1:00 p.m. - 3:30 p.m. 
-   * Complete Tutorial 1 - Hyperledger + VSCode Tutorial 
-   * Complete tutorial 2 - Deploy Local Hyperledger Application 
-  * Break (15 mins) 
+   * Complete Tutorial 1 - [Hyperledger + VSCode Tutorial](https://developer.ibm.com/tutorials/ibm-blockchain-platform-vscode-smart-contract/) 
+   * Complete tutorial 2 - [Deploy Local Hyperledger Application](https://github.com/odrodrig/assetTracking)
+  * Break (20 mins) 
 
 ## Discussion 
 * 3:30 - 4:00 p.m. 
